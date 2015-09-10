@@ -49,6 +49,7 @@
      <Compile Include="Assets\Alpha.cs" />
      <Compile Include="Assets\Scripts\GameOver.cs" />
      <Compile Include="Assets\Scripts\Jogador.cs" />
+     <Compile Include="Assets\Scripts\Mato.cs" />
      <Compile Include="Assets\Scripts\MiniGame3Stage\MiniGameSystem.cs" />
      <Compile Include="Assets\Scripts\Stage1\Barrel.cs" />
      <Compile Include="Assets\Scripts\Stage1\BuildingSoldierVision.cs" />

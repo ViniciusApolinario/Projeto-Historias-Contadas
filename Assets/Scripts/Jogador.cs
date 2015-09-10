@@ -4,7 +4,7 @@ using System.Collections;
 public class Jogador : MonoBehaviour {
 
 	public GameObject GameCamera;
-	bool Walk = false;
+	public static bool Walk = false;
 	bool Idle = true;
 	bool Jump = false;
 	bool Air = false;
